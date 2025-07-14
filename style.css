@@ -1,0 +1,120 @@
+header .keynan{
+    background: url(photo14.jpg);
+    padding: 40px;
+    text-align: center;
+    color: white;
+    border-radius: 30px;
+    font-size: 20px;
+    margin: 0%;
+    align-items: center;
+    justify-content: center;
+
+}
+.plan{
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 30px;
+    font-size: 15px;
+    margin: 0%;
+    align-items: center;
+    justify-content: center;
+}
+nav{
+    background-color: blue;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 0%;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+nav a{
+    font-size: larger;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 5px;
+    padding: 5px;
+    color:white;
+    
+
+}
+a:hover{
+    background-color: rgb(52, 62, 71);
+    border-bottom: 2px solid red;
+}
+
+main{
+    background-color: white;
+    color: black;
+    margin: auto;
+    padding: 2rem;
+    max-width: 900px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+footer{
+    color: black;
+    text-align: center;
+    background-color: blue;
+    padding: 5px;
+    border: 1px solid blue;
+    border-radius: 30px;
+}
+body{
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    flex-wrap: wrap;
+}
+form{
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+form textarea{
+    padding: 30px;
+    
+}
+form > .done{
+    background-color: rgb(46, 46, 251);
+    border-radius: 5px;
+    padding: 10px;
+    margin-left: 10px;
+    border-color: rgb(73, 73, 253);
+}
+form > .reset{
+    background-color: rgb(252, 47, 47);
+    border-radius: 5px;
+    padding: 10px;
+    border-color: rgb(254, 67, 67);
+}
+button{
+    background-color: rgb(12, 12, 241);
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-left: 10px;
+    border-color: rgb(73, 73, 253);
+}
+button >a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
+.sign{
+   background-color: rgb(12, 12, 241);
+    border-radius: 5px;
+    padding: 2px;
+    margin-left: 10px;
+    border-color: rgb(73, 73, 253);
+}
+.sign >a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
